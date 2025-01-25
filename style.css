@@ -1,0 +1,20 @@
+button{
+    padding: 1rem 2rem;
+    margin: 1rem 1rem;
+    background-color:cadetblue;
+    color: white;
+    border: solid black 2px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
